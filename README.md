@@ -34,8 +34,8 @@ The repository and Xcode target retain the original `ImprovBuddy` name. The prod
 ## Getting started
 
 ```bash
-git clone https://github.com/3nboyd/ImprovBuddy.git
-cd ImprovBuddy
+git clone https://github.com/3nboyd/jade.git
+cd jade
 open ImprovBuddy.xcodeproj
 ```
 
