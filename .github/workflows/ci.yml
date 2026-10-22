@@ -17,6 +17,9 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v7
 
+      - name: Check mirrored application sources
+        run: python3 scripts/check-mirrors.py
+
       - name: Show toolchain
         run: xcodebuild -version
 
