@@ -19,8 +19,8 @@ The Xcode project, target, and main source folder retain the original `ImprovBud
 - Tuner and pitch guidance powered by live microphone analysis
 - Audio idea recorder with local playback and transport controls
 - Theory library with scale, chord, staff, and piano visualizations
-- MIDI and microphone input pipeline with a unified event bus
-- Rules-based coaching, harmony analysis, tempo analysis, and form tracking
+- MIDI and microphone input shared across the practice tools
+- Practice feedback based on timing and harmony rules, with tempo and song-form tracking
 - SwiftData persistence for songs, practice sessions, library items, and settings
 - Responsive iPhone and iPad layouts, plus Mac Catalyst support
 
