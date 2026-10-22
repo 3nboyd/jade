@@ -10,7 +10,7 @@
 
 Jade is a local-first SwiftUI workspace for live musicians. It combines song and chart organization, practice tools, audio ideas, and music theory in one iPhone and iPad app.
 
-The repository and Xcode target retain the original `ImprovBuddy` name. The product name shown in the app is **Jade: The Live Musician's Best Friend**.
+The Xcode project, target, and main source folder retain the original `ImprovBuddy` name; the repository is named `jade`. The product name shown in the app is **Jade: The Live Musician's Best Friend**.
 
 ## Features
 
