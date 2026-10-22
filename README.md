@@ -39,7 +39,7 @@ cd jade
 open ImprovBuddy.xcodeproj
 ```
 
-Select the `ImprovBuddy` scheme and run it on an iPhone or iPad simulator. Microphone, MIDI, and document-import behavior is best tested on a physical device.
+Select the `ImprovBuddy` scheme and run it on an iPhone or iPad simulator to explore the interface and theory tools. Check recording, tuning, MIDI input, and importing your own documents on a physical device with the required microphone or MIDI connection.
 
 The checked-in Xcode project is ready to open. To regenerate it after editing `project.yml`:
 
