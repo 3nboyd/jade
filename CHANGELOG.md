@@ -6,6 +6,7 @@ All notable changes to Jade are documented in this file. The project follows [Se
 
 ### Added
 
+- Full-resolution iPhone and iPad product screenshots, with a README preview and a complete gallery.
 - Public repository documentation, contribution guidance, security policy, and CI.
 - SwiftPM app package for app playground and submission workflows.
 

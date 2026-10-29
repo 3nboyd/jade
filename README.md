@@ -12,6 +12,22 @@ Jade is a local-first SwiftUI workspace for live musicians. It combines song and
 
 The Xcode project, target, and main source folder retain the original `ImprovBuddy` name; the repository is named `jade`. The product name shown in the app is **Jade: The Live Musician's Best Friend**.
 
+## Screenshots
+
+Captured from the app on iPhone 17 Pro and iPad Pro 11-inch (M5) simulators running iOS / iPadOS 26.2.
+
+<p align="center">
+  <img src="docs/screenshots/iphone-01-songs.png" width="240" alt="Jade song workspace with search, tags, and example songs">
+  <img src="docs/screenshots/iphone-02-theory.png" width="240" alt="Jade theory library with chord details and staff notation">
+  <img src="docs/screenshots/iphone-03-tools.png" width="240" alt="Jade tuner and metronome controls">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/ipad-03-tools.png" width="800" alt="Jade tuner and metronome in the iPad landscape layout">
+</p>
+
+See the [full screenshot gallery](docs/screenshots/README.md) for iPad theory notation, the recorder, and settings. Live microphone and MIDI behavior require separate device testing.
+
 ## Features
 
 - Songs workspace with PDF and image import, paging, tags, and lightweight markup
